@@ -1,1 +1,1 @@
-# kode1 - Dette virker! Vi har oppdatert fila fra Webstorm og sendt den tilbake til GitHub.
+# kode1 - Dette virker! Vi har oppdatert fila fra Webstorm og sendt den tilbake til GitHub. 
